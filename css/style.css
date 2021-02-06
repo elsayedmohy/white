@@ -1,8 +1,13 @@
-/* START NAVBAR */
+body,
+html {
+  font-family: "Amaranth", sans-serif;
+}
+
 .container {
   margin: auto;
   width: 1024px;
 }
+/* START NAVBAR */
 .header .navbar {
   background-color: #fff;
   color: white;
@@ -16,11 +21,6 @@
   margin: 5px 0px 0px 0px;
   padding-left: 0px;
   color: #333;
-  font-family: cursive;
-}
-
-.header .navbar h1 span {
-  color: #2fcc72;
 }
 
 .header .navbar ul {
